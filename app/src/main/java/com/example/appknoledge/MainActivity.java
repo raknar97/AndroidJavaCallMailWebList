@@ -108,7 +108,7 @@ public class MainActivity extends AppCompatActivity {
 
                 break;
             case R.id.telefono:
-                i = new Intent(Intent.ACTION_CALL, Uri.parse("tel:628272057"));
+                i = new Intent(Intent.ACTION_CALL, Uri.parse("tel:666666777"));
                 startActivity(i);
                 break;
 
