@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/contacto"
+        android:title="Contacto">
+
+        <menu>
+            <item
+                android:id="@+id/telefono"
+                android:title="Telefono" />
+            <item
+                android:id="@+id/correo"
+                android:title="Mandanos un email" />
+
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/ubicacion"
+        android:title="Donde estamos" />
+    <item
+        android:id="@+id/web"
+        android:title="Pag Web" />
+    <item
+        android:id="@+id/salir2"
+        android:title="Salir" />
+</menu>
